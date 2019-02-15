@@ -60,3 +60,5 @@ django_data.sh
 ../../env/
 ./../env*
 .env
+./env/
+./../env
